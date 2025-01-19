@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Room</string>
+    <string name="app_name_title">Контакты</string>
+    <string name="enter_last_name">Введите фамилию</string>
+    <string name="enter_phone_number">Введите номер телефона</string>
+    <string name="save_button_label">Сохранить</string>
+    <string name="exit">Выход</string>
+    <string name="action_exit">Exit</string>
+</resources>
